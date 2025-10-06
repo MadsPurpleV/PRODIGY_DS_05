@@ -1,5 +1,7 @@
 # PRODIGY_DS_05
 
+This project analyzes a synthetic dataset of road accidents to uncover patterns and trends. The dataset includes variables such as hour of the day, weather conditions, road conditions, and accident severity.
+
 # Task-5: Road Accident Analysis
 Analyzed a synthetic dataset of road accidents to identify patterns and trends. The data includes hour, weather, road conditions, and accident severity. Performed EDA with visualizations to highlight accidents by hour, weather, and severity by road conditions. Insights help understand risk factors and improve road safety.
 
